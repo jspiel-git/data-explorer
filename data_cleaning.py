@@ -82,8 +82,8 @@ full_data["Exterior1st"] = full_data["Exterior1st"].fillna("VinylSd")
 
 # We need to transform the categorical variables into 0 and 1
 
-categorical_variables = ["MSZoning", "Street", "LotShape", "LandContour", "LotConfig", "Neighborhood", "Condition1",
-	"HouseStyle", "RoofStyle", "Exterior1st", "Foundation", "HeatingQC", "CentralAir", "KitchenQual", "PavedDrive", 
+categorical_variables = ["MSZoning", "LotShape", "LandContour", "LotConfig", "Neighborhood", "Condition1",
+	"HouseStyle", "RoofStyle", "Exterior1st", "Foundation", "HeatingQC", "KitchenQual", "PavedDrive", 
 	"SaleCondition"]
 
 full_data_dummies = full_data
