@@ -4,6 +4,7 @@
 import numpy as np
 import pandas as pd
 import seaborn as sns
+import matplotlib.pyplot as plt
 
 from sklearn.linear_model import LinearRegression
 
@@ -63,6 +64,7 @@ for column in full_data.columns:
 	column_info = []
 
 	for info in full_data_info[i].split(" "):
+
 		if info == "":
 			pass
 		else:
@@ -90,14 +92,10 @@ for column in full_data.columns:
 		j = 0
 
 		while j < len(column_levels):
-
 			try:
-
 				mdFile.new_line("Level {}: **{}**, number of non-NaN examples: {}, mean: {}".format(j + 1, 
 					column_levels.index[j], column_levels.values[j], round(level_means[column_levels.index[j]],2)))
-
 			except KeyError:
-
 				mdFile.new_line("Level {}: **{}**, number of non-NaN examples: {}, mean unknown since category only in testing set".format(j + 1, 
 					column_levels.index[j], column_levels.values[j]))
 			
@@ -118,19 +116,15 @@ for column in full_data.columns:
 		while j < len(column_levels):
 
 			try:
-
 				mdFile.new_line("Value: **{}**, number of non-NaN examples: {}, mean : {}".format(column_levels.index[j], 
 					column_levels.values[j], round(level_means[column_levels.index[j]],2)))
-
 			except KeyError:
-
 				mdFile.new_line("Value: **{}**, number of non-NaN examples: {}, mean unknown since category only in testing set".format(column_levels.index[j], 
 					column_levels.values[j]))
 
 			if j >= 30:
-
 				mdFile.write('  \n')
-				mdFile.new_line("**There are more {} values not displayed**".format(len(column_notna) - j))
+				#mdFile.new_line("**There are more {} values not displayed**".format(len(column_notna) - j))
 
 				break
 			
@@ -157,6 +151,11 @@ for column in full_data.columns:
 	else:
 
 		pass
+
+corrmat = train_data.corr()
+f, ax = plt.subplots(figsize=(12, 9))
+sns.heatmap(corrmat, vmax=.8, square=True);
+plt.savefig('heatmap.png', bbox_inches='tight')
 
 # Create markdown file
 

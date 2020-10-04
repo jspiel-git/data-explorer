@@ -28,7 +28,7 @@ Value: **75**, number of non-NaN examples: 23, mean : 192437.5
 Value: **45**, number of non-NaN examples: 18, mean : 108591.67  
 Value: **180**, number of non-NaN examples: 17, mean : 102300.0  
 Value: **40**, number of non-NaN examples: 6, mean : 156125.0  
-Value: **150**, number of non-NaN examples: 1, mean unkown since category only in testing set
+Value: **150**, number of non-NaN examples: 1, mean unknown since category only in testing set
 ## Variable name: MSZoning
   
 **Type:** object  
@@ -210,8 +210,8 @@ Level 3: **Artery**, number of non-NaN examples: 5, mean: 106500.0
 Level 4: **PosA**, number of non-NaN examples: 4, mean: 325000.0  
 Level 5: **PosN**, number of non-NaN examples: 4, mean: 284875.0  
 Level 6: **RRNn**, number of non-NaN examples: 2, mean: 96750.0  
-Level 7: **RRAn**, number of non-NaN examples: 1, mean: 136905.0  
-Level 8: **RRAe**, number of non-NaN examples: 1, mean: 190000.0
+Level 7: **RRAe**, number of non-NaN examples: 1, mean: 190000.0  
+Level 8: **RRAn**, number of non-NaN examples: 1, mean: 136905.0
 ## Variable name: BldgType
   
 **Type:** object  
@@ -368,10 +368,10 @@ Level 1: **CompShg**, number of non-NaN examples: 2876, mean: 179803.68
 Level 2: **Tar&Grv**, number of non-NaN examples: 23, mean: 185406.36  
 Level 3: **WdShake**, number of non-NaN examples: 9, mean: 241400.0  
 Level 4: **WdShngl**, number of non-NaN examples: 7, mean: 390250.0  
-Level 5: **ClyTile**, number of non-NaN examples: 1, mean: 160000.0  
-Level 6: **Membran**, number of non-NaN examples: 1, mean: 241500.0  
-Level 7: **Metal**, number of non-NaN examples: 1, mean: 180000.0  
-Level 8: **Roll**, number of non-NaN examples: 1, mean: 137000.0
+Level 5: **Metal**, number of non-NaN examples: 1, mean: 180000.0  
+Level 6: **Roll**, number of non-NaN examples: 1, mean: 137000.0  
+Level 7: **Membran**, number of non-NaN examples: 1, mean: 241500.0  
+Level 8: **ClyTile**, number of non-NaN examples: 1, mean: 160000.0
 ## Variable name: Exterior1st
   
 **Type:** object  
@@ -689,31 +689,31 @@ Value: **205**, number of non-NaN examples: 2, mean : 122000.0
 Value: **360**, number of non-NaN examples: 2, mean : 108750.0  
 Value: **390**, number of non-NaN examples: 1, mean : 130000.0  
 Value: **384**, number of non-NaN examples: 1, mean : 191000.0  
-Value: **362**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **312**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **362**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **312**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **234**, number of non-NaN examples: 1, mean : 84500.0  
 Value: **232**, number of non-NaN examples: 1, mean : 133000.0  
 Value: **420**, number of non-NaN examples: 1, mean : 179500.0  
 Value: **156**, number of non-NaN examples: 1, mean : 79500.0  
 Value: **144**, number of non-NaN examples: 1, mean : 135000.0  
-Value: **140**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **140**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **120**, number of non-NaN examples: 1, mean : 124900.0  
-Value: **114**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **108**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **114**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **108**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **392**, number of non-NaN examples: 1, mean : 235000.0  
-Value: **697**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **697**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **515**, number of non-NaN examples: 1, mean : 200000.0  
 Value: **371**, number of non-NaN examples: 1, mean : 104000.0  
 Value: **513**, number of non-NaN examples: 1, mean : 85000.0  
 Value: **481**, number of non-NaN examples: 1, mean : 118500.0  
 Value: **479**, number of non-NaN examples: 1, mean : 200500.0  
 Value: **473**, number of non-NaN examples: 1, mean : 115000.0  
-Value: **431**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **431**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **397**, number of non-NaN examples: 1, mean : 197000.0  
-Value: **259**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **450**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **259**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **450**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **53**, number of non-NaN examples: 1, mean : 169000.0  
-Value: **1064**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **1064**, number of non-NaN examples: 1, mean unknown since category only in testing set  
   
 **There are more 2889 values not displayed**
 ## Variable name: GrLivArea
@@ -783,7 +783,7 @@ Value: **2**, number of non-NaN examples: 1530, mean : 213009.83
 Value: **1**, number of non-NaN examples: 1309, mean : 134751.44  
 Value: **3**, number of non-NaN examples: 64, mean : 347822.91  
 Value: **0**, number of non-NaN examples: 12, mean : 165200.89  
-Value: **4**, number of non-NaN examples: 4, mean unkown since category only in testing set
+Value: **4**, number of non-NaN examples: 4, mean unknown since category only in testing set
 ## Variable name: HalfBath
   
 **Type:** int64  
@@ -843,8 +843,8 @@ Value: **10**, number of non-NaN examples: 80, mean : 296279.17
 Value: **11**, number of non-NaN examples: 32, mean : 318022.0  
 Value: **3**, number of non-NaN examples: 25, mean : 111217.65  
 Value: **12**, number of non-NaN examples: 16, mean : 280971.45  
-Value: **15**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **13**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **15**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **13**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **14**, number of non-NaN examples: 1, mean : 200000.0  
 Value: **2**, number of non-NaN examples: 1, mean : 39300.0
 ## Variable name: Functional
@@ -870,7 +870,7 @@ Value: **0**, number of non-NaN examples: 1420, mean : 141331.48
 Value: **1**, number of non-NaN examples: 1268, mean : 211843.91  
 Value: **2**, number of non-NaN examples: 219, mean : 240588.54  
 Value: **3**, number of non-NaN examples: 11, mean : 252000.0  
-Value: **4**, number of non-NaN examples: 1, mean unkown since category only in testing set
+Value: **4**, number of non-NaN examples: 1, mean unknown since category only in testing set
 ## Variable name: FireplaceQu
   
 **Type:** object  
@@ -1090,29 +1090,29 @@ Value: **168**, number of non-NaN examples: 3, mean : 238000.0
 Value: **144**, number of non-NaN examples: 2, mean : 211500.0  
 Value: **180**, number of non-NaN examples: 2, mean : 135000.0  
 Value: **216**, number of non-NaN examples: 2, mean : 184500.0  
-Value: **219**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **176**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **86**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **219**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **176**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **86**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **96**, number of non-NaN examples: 1, mean : 179900.0  
-Value: **120**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **120**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **130**, number of non-NaN examples: 1, mean : 180000.0  
 Value: **140**, number of non-NaN examples: 1, mean : 135000.0  
-Value: **255**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **150**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **255**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **150**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **162**, number of non-NaN examples: 1, mean : 149500.0  
 Value: **245**, number of non-NaN examples: 1, mean : 231500.0  
-Value: **174**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **225**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **174**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **225**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **23**, number of non-NaN examples: 1, mean : 169990.0  
 Value: **182**, number of non-NaN examples: 1, mean : 222000.0  
 Value: **196**, number of non-NaN examples: 1, mean : 228500.0  
-Value: **323**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **224**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **323**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **224**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **238**, number of non-NaN examples: 1, mean : 194500.0  
 Value: **290**, number of non-NaN examples: 1, mean : 262500.0  
 Value: **304**, number of non-NaN examples: 1, mean : 394617.0  
 Value: **320**, number of non-NaN examples: 1, mean : 143000.0  
-Value: **360**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **360**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **508**, number of non-NaN examples: 1, mean : 180500.0  
 Value: **407**, number of non-NaN examples: 1, mean : 180500.0  
   
@@ -1143,12 +1143,12 @@ Value: **153**, number of non-NaN examples: 4, mean : 235000.0
 Value: **155**, number of non-NaN examples: 4, mean : 275000.0  
 Value: **182**, number of non-NaN examples: 3, mean : 162000.0  
 Value: **161**, number of non-NaN examples: 3, mean : 289000.0  
-Value: **256**, number of non-NaN examples: 3, mean unkown since category only in testing set  
+Value: **256**, number of non-NaN examples: 3, mean unknown since category only in testing set  
 Value: **142**, number of non-NaN examples: 3, mean : 302649.0  
 Value: **147**, number of non-NaN examples: 3, mean : 168883.33  
-Value: **115**, number of non-NaN examples: 3, mean unkown since category only in testing set  
-Value: **112**, number of non-NaN examples: 3, mean unkown since category only in testing set  
-Value: **195**, number of non-NaN examples: 3, mean unkown since category only in testing set  
+Value: **115**, number of non-NaN examples: 3, mean unknown since category only in testing set  
+Value: **112**, number of non-NaN examples: 3, mean unknown since category only in testing set  
+Value: **195**, number of non-NaN examples: 3, mean unknown since category only in testing set  
 Value: **90**, number of non-NaN examples: 3, mean : 180000.0  
 Value: **210**, number of non-NaN examples: 3, mean : 538000.0  
 Value: **175**, number of non-NaN examples: 3, mean : 240000.0  
@@ -1163,19 +1163,19 @@ Value: **259**, number of non-NaN examples: 2, mean : 158237.5
   
 **Variable is integer-valued with following values:**  
 Value: **0**, number of non-NaN examples: 2906, mean : 180404.66  
-Value: **561**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **561**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **555**, number of non-NaN examples: 1, mean : 745000.0  
 Value: **519**, number of non-NaN examples: 1, mean : 250000.0  
-Value: **800**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **800**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **738**, number of non-NaN examples: 1, mean : 274970.0  
 Value: **648**, number of non-NaN examples: 1, mean : 181000.0  
 Value: **576**, number of non-NaN examples: 1, mean : 171000.0  
 Value: **512**, number of non-NaN examples: 1, mean : 235000.0  
 Value: **480**, number of non-NaN examples: 1, mean : 160000.0  
-Value: **444**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **368**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **228**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **144**, number of non-NaN examples: 1, mean unkown since category only in testing set
+Value: **444**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **368**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **228**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **144**, number of non-NaN examples: 1, mean unknown since category only in testing set
 ## Variable name: PoolQC
   
 **Type:** object  
@@ -1218,30 +1218,30 @@ Value: **450**, number of non-NaN examples: 9, mean : 116437.5
 Value: **600**, number of non-NaN examples: 8, mean : 123350.0  
 Value: **700**, number of non-NaN examples: 7, mean : 169890.0  
 Value: **2000**, number of non-NaN examples: 7, mean : 202450.0  
-Value: **650**, number of non-NaN examples: 3, mean unkown since category only in testing set  
+Value: **650**, number of non-NaN examples: 3, mean unknown since category only in testing set  
 Value: **1200**, number of non-NaN examples: 3, mean : 122750.0  
-Value: **1500**, number of non-NaN examples: 3, mean unkown since category only in testing set  
-Value: **4500**, number of non-NaN examples: 2, mean unkown since category only in testing set  
+Value: **1500**, number of non-NaN examples: 3, mean unknown since category only in testing set  
+Value: **4500**, number of non-NaN examples: 2, mean unknown since category only in testing set  
 Value: **2500**, number of non-NaN examples: 2, mean : 266500.0  
 Value: **480**, number of non-NaN examples: 2, mean : 152500.0  
-Value: **3000**, number of non-NaN examples: 2, mean unkown since category only in testing set  
-Value: **12500**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **300**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **3000**, number of non-NaN examples: 2, mean unknown since category only in testing set  
+Value: **12500**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **300**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **350**, number of non-NaN examples: 1, mean : 200000.0  
 Value: **8300**, number of non-NaN examples: 1, mean : 190000.0  
-Value: **420**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **80**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **420**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **80**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **54**, number of non-NaN examples: 1, mean : 55993.0  
-Value: **460**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **490**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **460**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **490**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **3500**, number of non-NaN examples: 1, mean : 55000.0  
 Value: **560**, number of non-NaN examples: 1, mean : 81000.0  
-Value: **17000**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **17000**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **15500**, number of non-NaN examples: 1, mean : 151500.0  
-Value: **750**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **750**, number of non-NaN examples: 1, mean unknown since category only in testing set  
 Value: **800**, number of non-NaN examples: 1, mean : 110000.0  
-Value: **900**, number of non-NaN examples: 1, mean unkown since category only in testing set  
-Value: **1000**, number of non-NaN examples: 1, mean unkown since category only in testing set  
+Value: **900**, number of non-NaN examples: 1, mean unknown since category only in testing set  
+Value: **1000**, number of non-NaN examples: 1, mean unknown since category only in testing set  
   
 **There are more 2889 values not displayed**
 ## Variable name: MoSold
