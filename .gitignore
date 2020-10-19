@@ -1,0 +1,7 @@
+.DS_Store
+data/ensemble_predictions.csv
+data/lassolm_predictions.csv
+data/lm_predictions.csv
+data/loglm_predictions.csv
+data/ridgelm_predictions.csv
+data/sample_submission.csv
